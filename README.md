@@ -71,6 +71,8 @@ VirtualBox was used to create the Windows Server 2019 and Windows 10 virtual mac
 Step 2 - Configure the Domain Controller
 
 The server was configured with a static IP address and then prepared to provide directory and network services. Active Directory Domain Services was installed and promoted to a domain controller.
+<img width="434" height="38" alt="image" src="https://github.com/user-attachments/assets/1ea438c4-dc4a-4867-afc8-e6f1759a2ccb" />
+<img width="700" height="173" alt="image" src="https://github.com/user-attachments/assets/c2956308-0c7a-4b71-ac7e-2ce999f6b49a" />
 
 Step 3 - Configure DHCP
 
