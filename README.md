@@ -71,20 +71,24 @@ VirtualBox was used to create the Windows Server 2019 and Windows 10 virtual mac
 Step 2 - Configure the Domain Controller
 
 The server was configured with a static IP address and then prepared to provide directory and network services. Active Directory Domain Services was installed and promoted to a domain controller.
+
 <img width="434" height="38" alt="image" src="https://github.com/user-attachments/assets/1ea438c4-dc4a-4867-afc8-e6f1759a2ccb" />
 <img width="700" height="173" alt="image" src="https://github.com/user-attachments/assets/c2956308-0c7a-4b71-ac7e-2ce999f6b49a" />
 
 Step 3 - Configure DHCP
 
 DHCP was set up on the Windows Server so that client machines could automatically receive IP addresses. A DHCP scope was created to provide addresses to devices on the internal network. One issue occurred where the DHCP server wa not initially providing the default gateway to the Windows 10 client.
+<img width="598" height="296" alt="image" src="https://github.com/user-attachments/assets/1d7ce8f2-54e5-46cb-8586-165700f657b3" />
 
 Step 4 - Configure NAT
 
 The domain controller was configured to provide internet forwarding for the internal network. This allows the Windows 10 workstation to communicate with the internet through the domain controller.
+<img width="395" height="323" alt="image" src="https://github.com/user-attachments/assets/d4f39f75-fa24-41c2-a4c7-cd2050aefce0" />
 
 Step 5 - Configure Active Directory Users
 
 Active Directory Users and Computers was used to manage domain accounts. The lab also demonstrated account creation using Powershell. Bulk user creation represents a realistic enterprise scenario where many employees may need accounts at the same time.
+
 
 Step 6 - Install and Configure Windows 10
 
