@@ -65,6 +65,8 @@ NAT - Internet access through the server
 Step 1 - Create the Virtual Machines
 
 VirtualBox was used to create the Windows Server 2019 and Windows 10 virtual machines.
+<img width="569" height="235" alt="image" src="https://github.com/user-attachments/assets/0284ca4c-ed64-4036-87af-26e78477efdb" />
+
 
 Step 2 - Configure the Domain Controller
 
