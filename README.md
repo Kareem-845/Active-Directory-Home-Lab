@@ -88,6 +88,7 @@ The domain controller was configured to provide internet forwarding for the inte
 Step 5 - Configure Active Directory Users
 
 Active Directory Users and Computers was used to manage domain accounts. The lab also demonstrated account creation using Powershell. Bulk user creation represents a realistic enterprise scenario where many employees may need accounts at the same time.
+<img width="752" height="531" alt="image" src="https://github.com/user-attachments/assets/d4abc0e3-51c1-4950-8749-c41865490301" />
 
 
 Step 6 - Install and Configure Windows 10
