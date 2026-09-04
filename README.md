@@ -102,6 +102,8 @@ The workstation was renamed to Client1 and was configured to join mydomain.com. 
 Step 8 - Verify the Domain Join
 
 The domain controller was inspected using Active Directory Users and Computers. The Windows 10 computer appeared in the appropriate computer container.
+<img width="758" height="534" alt="image" src="https://github.com/user-attachments/assets/11f8f4f9-7c31-49f8-afb2-610d7505cb83" />
+
 
 Step 9 - Log in Using a Domain Account
 
