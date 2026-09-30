@@ -109,6 +109,16 @@ Step 9 - Log in Using a Domain Account
 
 Instead of using the local Windows account, the workstation was accessed using an Active Directory user account. The other user option was selected and domain credentials were used.
 
+Skills Demonstrated
+
+Active Directory
+Windows Server
+Networking
+Powershell
+Virtualization
+
+
+
 
 
  
